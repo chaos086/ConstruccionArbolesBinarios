@@ -1,25 +1,25 @@
 # Tema: 
 Construcción de operaciones del Árbol binario.
 
-## Operaciones:
-  1. estaVacio
-  2. agregarDato
-  3. recorrerArbol
-     1. inOrden
-     2. postOrden
-     3. preOrden
-   4. existeDato
-   5. obtenerPeso
-   6. obtenerAltura
-   7. obtenerNivel
-   8. contarHojas
-   9. obtenerMenor
-   10. imprimirAmplitud
-   11. eliminarDatos
-   12. contarHojas
-   13. obtenerNodoMayor
-   14. obtenerNodoMenor
-   15. borrarArbol
+## operaciones:
+  1. EstaVacia
+  2. AgregarDato
+  3. RecorrerArbol
+     1. InOrden
+     2. PostOrden
+     3. PreOrden
+   4. ExisteDato
+   5. ObtenerPeso
+   6. ObtenerAltura
+   7. ObtenerNivel
+   8. ContarHojas
+   9. ObtenerMenor
+   10. ImprimirAmplitud
+   11. EliminarDatos
+   12. ContarHojas
+   13. ObtenerNodoMayor
+   14. ObtenerNodoMenor
+   15. BorrarArbol
       
 
 # Miembros:
